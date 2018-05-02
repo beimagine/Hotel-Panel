@@ -1,0 +1,6 @@
+D:\Projects\MVC - Hotel Panel\Hotel-Panel\Hotel-Panel\Hotel-Panel.Service\bin\Debug\Hotel-Panel.Service.dll
+D:\Projects\MVC - Hotel Panel\Hotel-Panel\Hotel-Panel\Hotel-Panel.Service\bin\Debug\Hotel-Panel.Service.pdb
+D:\Projects\MVC - Hotel Panel\Hotel-Panel\Hotel-Panel\Hotel-Panel.Service\obj\Debug\Hotel-Panel.Service.csprojResolveAssemblyReference.cache
+D:\Projects\MVC - Hotel Panel\Hotel-Panel\Hotel-Panel\Hotel-Panel.Service\obj\Debug\Hotel-Panel.Service.csproj.CoreCompileInputs.cache
+D:\Projects\MVC - Hotel Panel\Hotel-Panel\Hotel-Panel\Hotel-Panel.Service\obj\Debug\Hotel-Panel.Service.dll
+D:\Projects\MVC - Hotel Panel\Hotel-Panel\Hotel-Panel\Hotel-Panel.Service\obj\Debug\Hotel-Panel.Service.pdb
